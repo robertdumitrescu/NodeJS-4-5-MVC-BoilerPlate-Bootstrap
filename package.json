@@ -1,0 +1,19 @@
+{
+  "name": "nodejs5boilerplate",
+  "version": "1.0.0",
+  "description": "This basic project structure is meant primarly to be deployed on servers with NGINX reverse-proxy.",
+  "main": "dev.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertdumitrescu/NodeJS-4-5-MVC-BoilerPlate-Bootstrap-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertdumitrescu/NodeJS-4-5-MVC-BoilerPlate-Bootstrap-/issues"
+  },
+  "homepage": "https://github.com/robertdumitrescu/NodeJS-4-5-MVC-BoilerPlate-Bootstrap-#readme"
+}

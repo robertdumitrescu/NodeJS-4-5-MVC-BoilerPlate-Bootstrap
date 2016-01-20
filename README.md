@@ -6,5 +6,5 @@ Despite this, it will accomodate just fine on multi VM server structure with Apa
 
 For any questions you can always find me on:
 
-http://rdumitrescu.com on the contact page
+http://rdumitrescu.com on the contact page or on mail:
 robertdum01@gmail.com
